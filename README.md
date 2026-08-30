@@ -8,22 +8,21 @@ This repository is designed to guide developers, AI engineers, and system archit
 
 ## 📌 Table of Contents
 
-- [📚 Curriculum & Navigation]
-  - [1. ⚡ LangGraph Fundamentals]
-  - [2. 🛠️ LangGraph Advanced]
-  - [3. 🔍 Agentic RAG]
-  - [4. 🔌 MCP (Model Context Protocol)]
-  - [5. 🏗️ AI Production System]
-  - [6. 📊 AI Evaluation]
-  - [7. 🛡️ AI Security]
-  - [8. 🤖 Advanced Multi-Agentic Systems]
-  - [9. 🔬 Deep Research Systems]
-  - [10. 🏛️ AI Systems Architectures]
-  - [11. ⚙️ AI Infra & Scaling]
-  - [12. 🎓 Capstone Project]
-- [🛠️ Tech Stack & Tools]
-- [💡 How to Use This Repository]
-
+- 📚 Curriculum & Navigation
+  - 1. ⚡ LangGraph Fundamentals
+  - 2. 🛠️ LangGraph Advanced
+  - 3. 🔍 Agentic RAG
+  - 4. 🔌 MCP (Model Context Protocol)
+  - 5. 🏗️ AI Production System
+  - 6. 📊 AI Evaluation
+  - 7. 🛡️ AI Security
+  - 8. 🤖 Advanced Multi-Agentic Systems
+  - 9. 🔬 Deep Research Systems
+  - 10. 🏛️ AI Systems Architectures
+  - 11. ⚙️ AI Infra & Scaling
+  - 12. 🎓 Capstone Project
+- 🛠️ Tech Stack & Tools
+- 💡 How to Use This Repository
 ---
 
 ## 📚 Curriculum & Navigation
