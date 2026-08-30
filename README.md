@@ -23,6 +23,7 @@ This repository is designed to guide developers, AI engineers, and system archit
   - 12. 🎓 Capstone Project
 - 🛠️ Tech Stack & Tools
 - 💡 How to Use This Repository
+  
 ---
 
 ## 📚 Curriculum & Navigation
